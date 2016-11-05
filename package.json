@@ -9,6 +9,7 @@
   "author": "Ruben Lopez M <ruben@mapbox.com> (http://rub21.github.io/)",
   "license": "ISC",
   "dependencies": {
+    "catbox-redis": "^2.0.2",
     "grant-hapi": "^3.6.5",
     "hapi": "^14.2.0",
     "yar": "^8.1.0"

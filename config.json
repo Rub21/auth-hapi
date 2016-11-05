@@ -1,7 +1,8 @@
 {
   "server": {
     "protocol": "http",
-    "host": "localhost:3000"
+    "host": "localhost:3000",
+    "transport": "session"
   },
   "openstreetmap": {
     "key": "3JbsSK6fPxeoU8Utht0K0DmaPAPNl3Euu13YjESu",
