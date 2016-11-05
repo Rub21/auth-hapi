@@ -1,0 +1,16 @@
+{
+  "name": "auth-hapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruben Lopez M <ruben@mapbox.com> (http://rub21.github.io/)",
+  "license": "ISC",
+  "dependencies": {
+    "grant-hapi": "^3.6.5",
+    "hapi": "^14.2.0",
+    "yar": "^8.1.0"
+  }
+}
